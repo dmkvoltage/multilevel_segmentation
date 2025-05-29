@@ -15,7 +15,7 @@ setup(
     description="A library for multilevel image segmentation using combined clustering and morphology",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/multilevel_segmentation",
+    url="https://github.com/dmkvoltage/multilevel_segmentation",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
